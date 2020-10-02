@@ -15,10 +15,10 @@ const Header = () => {
         <div className="collapse navbar-collapse" id="navbarColor01">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
-              <a className="nav-link" href="">Github</a>
+              <a className="nav-link" href="https://github.com/lhestermonroyo/react-graphql">Github</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">LinkedIn</a>
+              <a className="nav-link" href="https://www.linkedin.com/in/lhester-monroyo">LinkedIn</a>
             </li>
           </ul>
         </div>
